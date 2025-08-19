@@ -56,7 +56,7 @@ Follow the MCP install [guide](https://modelcontextprotocol.io/quickstart/user),
 
 **Automatic setup:**
 ```bash
-uvx singlestore-mcp-server init --client=claude-code
+uvx singlestore-mcp-server init --client=claude
 ```
 This will automatically run the Claude CLI command for you.
 
